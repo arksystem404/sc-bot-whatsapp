@@ -1,0 +1,536 @@
+{
+  "users": {
+    "6282194080903@s.whatsapp.net": {
+      "serialNumber": "8f436994a6d65359d5e86642a8698d24",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 881-0259-28807",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6282261090839@s.whatsapp.net": {
+      "serialNumber": "931cdc9f8a1bc94ee9a4afe72c1fa94f",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 822-6109-0839",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "62882020804531@s.whatsapp.net": {
+      "serialNumber": "84818e945a4b7106773e9273d3524019",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 882-0208-04531",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "62881026788157@s.whatsapp.net": {
+      "serialNumber": "20da57fc49f3f48a9e324b84e40eec97",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 881-0267-88157",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285607116600@s.whatsapp.net": {
+      "serialNumber": "691ec3dfac7288da29ac29c9a2ef58f4",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 856-0711-6600",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "62895614033342@s.whatsapp.net": {
+      "serialNumber": "5e7864659398e37aecd605a493a3eadc",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 895-6140-33342",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "62813400198587@s.whatsapp.net": {
+      "serialNumber": "f53d2f18eaf6885da631547104cb8001",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "BOT ALIFATAH - V4",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6282199509537@s.whatsapp.net": {
+      "serialNumber": "801ec3e45ab3404b2e661ed7387f47ad",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 821-9950-9537",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285895092099@s.whatsapp.net": {
+      "serialNumber": "5ed12a73626f3dd654092c84f4cd4453",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 858-9509-2099",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "62856245825648@s.whatsapp.net": {
+      "serialNumber": "2f6e9cf77ffb86316daa975db3638191",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 856-2458-25648",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6281999777160@s.whatsapp.net": {
+      "serialNumber": "850d953085974937ef375f8a1a9c17a2",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 819-9977-7160",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6289522928487@s.whatsapp.net": {
+      "serialNumber": "8784755d61121cfe054a1df9be5d4c0b",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 895-2292-8487",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285381310740@s.whatsapp.net": {
+      "serialNumber": "6eece21e7af3c10c2a37f9f0de35722b",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 853-8131-0740",
+      "premium": false,
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6285713378981@s.whatsapp.net": {
+      "serialNumber": "6b6a027a752a33e934480b58fbb0af08",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 857-1337-8981",
+      "premium": "false",
+      "limit": 5,
+      "totalLimit": 0
+    },
+    "6283871165155@s.whatsapp.net": {
+      "serialNumber": "0bf3cb14ed431f1fdabe5edac38dbc80",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 838-7116-5155",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6285824021306@s.whatsapp.net": {
+      "serialNumber": "1fa9f44dc2cf4bd308fbcb38d052375e",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 858-2402-1306",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6283123448708@s.whatsapp.net": {
+      "serialNumber": "4f3d7b341809b5c0fd1a7097c11355ef",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 831-2344-8708",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6285724817661@s.whatsapp.net": {
+      "serialNumber": "5c81eb8c196a9b8dcabf93b634c8dcd9",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 857-2481-7661",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6287765845913@s.whatsapp.net": {
+      "serialNumber": "b008aa65b24aae92a61b62a44daf1d48",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 877-6584-5913",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6285765923507@s.whatsapp.net": {
+      "serialNumber": "2e78393f9069d12bfd35a5baf433937c",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 857-6592-3507",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6288227515514@s.whatsapp.net": {
+      "serialNumber": "6906186e9c63199e78c3fbf0f649f449",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 882-2751-5514",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "62895391026892@s.whatsapp.net": {
+      "serialNumber": "6d0b52bb133228cb43c8f6a86f26f358",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 895-3910-26892",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "628995645747@s.whatsapp.net": {
+      "serialNumber": "046e5f2f0ef378e80bc8710479928048",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 899-5645-747",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6285640285529@s.whatsapp.net": {
+      "serialNumber": "7ce3617b72eeb11e90d70e0b5700d585",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 856-4028-5529",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6281271827819@s.whatsapp.net": {
+      "serialNumber": "bff42ab27e6b1702382954aff0c0bd87",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 812-7182-7819",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6289681300660@s.whatsapp.net": {
+      "serialNumber": "53ea6407c53000ccd97802659214f6ca",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 896-8130-0660",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6285718354086@s.whatsapp.net": {
+      "serialNumber": "02dfd1a848ec01f7da150bb3bb53a8a5",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 857-1835-4086",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6283877644860@s.whatsapp.net": {
+      "serialNumber": "d8b3514c6836927c0f29f73101d6e8ba",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 838-7764-4860",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6285398650968@s.whatsapp.net": {
+      "serialNumber": "25e0c2829a8d9d947face3a4a94e1f60",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 853-9865-0968",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "62895631210017@s.whatsapp.net": {
+      "serialNumber": "d727d9ef777e0a0df1e003ac121b5f2c",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 895-6312-10017",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6281779266204@s.whatsapp.net": {
+      "serialNumber": "14aa0acdee96085b08f88c7652fc21e2",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 817-7926-6204",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "62858925090814@s.whatsapp.net": {
+      "serialNumber": "55f9a708534eb966e4ca4ab416ac684b",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 858-9250-90814",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "62882003507059@s.whatsapp.net": {
+      "serialNumber": "302dfcf431baeaea00979914be79639d",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 882-0035-07059",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6283830166149@s.whatsapp.net": {
+      "serialNumber": "f4e6e5ffa5adfc801e0f9f4873c9c7b1",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 838-3016-6149",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6282130493798@s.whatsapp.net": {
+      "serialNumber": "5050bbb4d2a01b247efaf43ee9873c05",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 821-3049-3798",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6281522680019@s.whatsapp.net": {
+      "serialNumber": "a634f2506e7ac73f2cf22bc7fbf57006",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 815-2268-0019",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6288975228351@s.whatsapp.net": {
+      "serialNumber": "8191a51ee05cc1306352d6e4b53b0469",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 889-7522-8351",
+      "premium": false,
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "62895391551260@s.whatsapp.net": {
+      "serialNumber": "6dbba7bb0c6595337ba8db91a6285428",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 895-3915-51260",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6288226340200@s.whatsapp.net": {
+      "serialNumber": "9c9822fa182222b33d98bac76068961f",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 882-2634-0200",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    },
+    "6282268251558@s.whatsapp.net": {
+      "serialNumber": "0328c2f6422df9e4484669a54ba2aa1a",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 822-6825-1558",
+      "premium": "false",
+      "limit": 10,
+      "totalLimit": 0
+    }
+  },
+  "chats": {
+    "120363295714719712@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6282261090839@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "62882020804531@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363054952536211@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6285381310740-1616072271@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "6282199509537@s.whatsapp.net": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363163367675087@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    },
+    "120363229217130506@g.us": {
+      "autosimi": false,
+      "badword": false,
+      "antilink": false,
+      "antilinkgc": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
+    }
+  },
+  "game": {},
+  "settings": {}
+}
